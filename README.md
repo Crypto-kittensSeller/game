@@ -1,1 +1,1 @@
-# game
+# Let's play Pandora's Box!
